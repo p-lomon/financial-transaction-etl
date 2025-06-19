@@ -1,4 +1,4 @@
-#  Financial Transaction Data pipeline 
+#  Financial Transaction ETL Data Pipeline 
 
 A simulated real-time data pipeline to stream, store, and visualize financial transactions with Kafka, PostgreSQL, and Grafana. This project demonstrates a fault-tolerant, scalable architecture suitable for financial fraud detection use cases.
 

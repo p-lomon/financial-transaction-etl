@@ -82,3 +82,5 @@ As of now, transactions are flagged as suspicious based on:
 
  - Metadata contains errors
 
+### Dashboard Image
+![Screenshot of a dashboard for the financial transaction dataset in Grafana](image.png)

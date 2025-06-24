@@ -11,20 +11,7 @@ This project simulates real-time financial transactions using transaction data s
 ---
 
 ##  Architecture
-
-```plaintext
-[Kaggle Transaction Dataset]
-           ↓
-       [Kafka Producer]
-           ↓
-        Kafka Topic
-           ↓
-      [Kafka Consumer]
-           ↓
-     [PostgreSQL Database]
-           ↓
-         [Grafana]
-```
+![Architecture image](Flowcharts.png)
 
 
 | Component      | Technology                 |
